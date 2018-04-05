@@ -24,3 +24,18 @@ body{
     height: 100px;
     border: 1px solid black;
 }
+#cr{
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+}
+#cc1{
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+}
+#cc2{
+    width: 100px;
+    height: 100px;
+    border:1px solid black
+}
