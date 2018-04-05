@@ -10,6 +10,7 @@ body{
 
 }
 #cl{
+    float: left;
     width: 300;
     height: 300;
     border: 1px solid black
@@ -20,11 +21,13 @@ body{
     border: 1px solid black;
 }
 #c2{
+    
     width: 100px;
     height: 100px;
     border: 1px solid black;
 }
 #cr{
+    float: right;
     width: 300px;
     height: 300px;
     border: 1px solid black;
